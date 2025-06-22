@@ -1,0 +1,9 @@
+fastapi
+uvicorn
+sqlalchemy
+beautifulsoup4
+requests
+npm
+spacy
+geopy
+snscrape
